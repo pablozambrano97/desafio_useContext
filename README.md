@@ -1,2 +1,13 @@
-# desafio_useContext
-Página usando hook useContex
+# React + Vite
+
+## Install
+
+```bash
+npm install
+```
+
+## Run
+
+```bash
+npm run dev
+```
